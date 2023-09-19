@@ -15,3 +15,6 @@ Gain practical experience in data cleaning, data visualization, and statistical 
 ## What Will You Find Here?
 Jupyter Notebook: Detailed data analysis, complete with code and comments.
 Tableau Public Story: Interactive visualizations to complement the analysis.
+
+## Contributing and License
+Feel free to fork this project, submit PRs and share it as you like. For any questions or discussions, please open an issue.
