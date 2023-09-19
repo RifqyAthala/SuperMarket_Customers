@@ -2,6 +2,8 @@
 ## Overview
 Welcome to this capstone project! This project serves as a comprehensive exercise for anyone interested in data analysis, particularly those in the fields of retail and customer behavior. Although it originated from a bootcamp assignment at Purwadhika, the goal is to make the analysis and findings accessible and beneficial to a broader audience.
 
+**Note**: The code in the accompanying Jupyter Notebook will be in Bahasa Indonesia.
+
 ## Dataset Background
 The dataset focuses on customers who have subscribed to a supermarket service between the years 2012 and 2014. It provides detailed insights into customer demographics, shopping behavior, responsiveness to promotions, and interactions through various sales channels. However, it has limitations, such as the absence of specific transaction years, which are important to note for a more profound understanding.
 
