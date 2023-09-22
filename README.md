@@ -29,4 +29,5 @@ Tujuan dari analisis pada Dataset Supermarket Customer ini adalah untuk menjawab
 kita dapat menarik kesimpulan dan memberikan rekomendasi kepada para Stakeholder dan mungkin disaat dilakukannya analisis akan mendapatkan temuan-temuan baru yang bisa dijadikan rekomendasi.
 
 Link Dataset : https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK
+
 Link Visualisasi Tableau : https://public.tableau.com/app/profile/rifqy.athala/viz/CapstoneProjectModule2_16953923822140/Story
