@@ -1,4 +1,4 @@
-# Data Analysis on Customer Supermarket Dataset: Capstone Project 2
+# Data Analysis on Supermarket Customers Dataset: Capstone Project 2
 ## Latar Belakang
 Sebuah Supermarket di Kota A ingin tetap menjadi pilihan utama pelanggannya di tengah persaingan yang semakin ketat. Salah satu cara untuk mencapai hal ini adalah dengan memahami lebih jauh tentang pelanggannya. Sebagai langkah awal Supermarket meminta tim Data Analyst untuk melakukan analisa pada Data pelanggan yang dimiliki oleh Supermarket.
 
